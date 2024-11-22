@@ -1,0 +1,14 @@
+* {
+	margin: 1%;
+}
+
+img {
+	width: 50px;
+	border-radius: 5px;
+	animation: pulse;
+	animation-duration: 2s;
+}
+
+table {
+	text-align: center;
+}
